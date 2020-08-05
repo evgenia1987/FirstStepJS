@@ -1,2 +1,0 @@
-# FirstStepJS
-learning JS
